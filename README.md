@@ -71,13 +71,13 @@ An advanced real-time **Chat Application** built with Python (Flask, Socket.IO) 
 ## 📸 Screenshots
 
 ### 🔑 Login Page
-![Login Page](./screenshots/login.png)
+![Login Page](./login.png)
 
 ### 📝 Register Page
-![Register Page](./screenshots/register.png)
+![Register Page](./register.png)
 
 ### 💬 Chat Room
-![Chat Room](./screenshots/chatroom.png)
+![Chat Room](./chat_room.png)
 
 ---
 
