@@ -62,7 +62,7 @@ An advanced real-time **Chat Application** built with Python (Flask, Socket.IO) 
 
 ## 🎥 Demo Video
 
-[![Demo Video](./demo_video.png)](https://youtu.be/your-demo-video-link)
+[![Demo Video](./demo_video.png)](https://www.linkedin.com/posts/vishnukumar-l-h-ba6239342_oasisinfobyte-python-flask-activity-7379428620643004416-UhOI?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAAFXR7m4Bh6OFFmWyra2rkh9quq-_Sn7YCFg)
 
 *(Click the image above to watch the demo video)*
 
