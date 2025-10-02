@@ -62,7 +62,7 @@ An advanced real-time **Chat Application** built with Python (Flask, Socket.IO) 
 
 ## 🎥 Demo Video
 
-[![Demo Video](./screenshots/demo_thumbnail.png)](https://youtu.be/your-demo-video-link)
+[![Demo Video](./demo_video.png)](https://youtu.be/your-demo-video-link)
 
 *(Click the image above to watch the demo video)*
 
